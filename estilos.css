@@ -1,7 +1,9 @@
-.body{
-    background-color: #000000;
+body {
+    background-image: url(img/fondo2.jpg);
 }
-
+.principal{
+    z-index: initial;
+}
 .navbar{
     background-color: #EB3238 !important;
 }
